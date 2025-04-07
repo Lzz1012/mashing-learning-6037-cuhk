@@ -2,4 +2,4 @@ streamlit
 pillow
 matplotlib
 pandas
-nunmpy
+numpy
